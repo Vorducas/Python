@@ -1,2 +1,3 @@
-# Python
-This is pretty much where I store my python files, be that .py, .pyc, or whatever, they go here.
+# School Work
+Stuff I worked on at school, it will probably make you cry if you know how to code at all
+
